@@ -1,5 +1,5 @@
-import streamlit as st
 import home
+import streamlit as st
 import data
 import plots
 import predict
